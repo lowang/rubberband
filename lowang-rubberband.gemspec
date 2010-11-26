@@ -45,6 +45,7 @@ Gem::Specification.new do |s|
     "lib/elasticsearch/transport/thrift/elasticsearch_constants.rb",
     "lib/elasticsearch/transport/thrift/elasticsearch_types.rb",
     "lib/elasticsearch/transport/thrift/rest.rb",
+    "lowang-rubberband.gemspec",
     "rubberband.gemspec",
     "test/elasticsearch_test.rb",
     "test/test_helper.rb"
