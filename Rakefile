@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "rubberband"
+    gem.name = "lowang-rubberband"
     gem.summary = %Q{An ElasticSearch client.}
     gem.description = %Q{An ElasticSearch Client with ThriftClient-like failover handling.}
     gem.email = "grantr@gmail.com"
